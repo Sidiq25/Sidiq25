@@ -5,4 +5,3 @@
 💞️ I’m looking to collaborate on full time Data Analyst/Business Analyst job roles 
 📫 How to reach me Email - sidiq25@gmail.com 
 LinkedIn - https://www.linkedin.com/in/sidiq-ahmed-449709a1/
-
