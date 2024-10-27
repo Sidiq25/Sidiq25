@@ -1,7 +1,29 @@
-👋 Hi, I’m Sidiq Ahmed 
-👀 I’m interested in Data Analysis 
-📒 I am currently working at Onity Group Inc. as Senior Business Analyst - Corporate Development 
-🌱 I’m skilled in Advance Excel, Power BI and Tableau 
-💞️ I’m looking to collaborate on full time Data Analyst/Business Analyst job roles 
-📫 How to reach me Email - sidiq25@gmail.com 
-    LinkedIn - https://www.linkedin.com/in/sidiq-ahmed-analyst/
+## 👋 Hello, I'm Sidiq Ahmed
+
+
+**🚀 About Me**
+
++ 📊 Senior Business Analyst - Corporate Development 
++ 🎓 B. Sc graduate
++ 🔍 Passionate about exploring New Technologies
++ 🌱 Currently learning Advanced Excel, Power BI, SQL, Tableau, Python
++ 📚 Interested in doing Insights
+
+
+  **🌐 Connect with Me**
+  
++ LinkedIn
++ github
+
+
+**🛠️ Projects**
++ Excel-Sales-Analytics
+
+
+**🤝 Open to Collaboration**
+* 📧 Reach me at: Sidiq25@gmail.com
+
+  Let's build something amazing together! 🚀
+
+
+
