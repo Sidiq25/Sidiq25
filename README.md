@@ -21,7 +21,7 @@
 
 
 **🤝 Open to Collaboration**
-* 📧 Reach me at: Sidiq25@gmail.com
+* 📧 Reach me at: sidiq25@gmail.com
 
   Let's build something amazing together! 🚀
 
