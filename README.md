@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Sidiq Ahmed
 
 
-******🚀 About Me******
+**🚀 About Me**
 
 + 📊 Senior Business Analyst - Corporate Development 
 + 🎓 B. Sc graduate
