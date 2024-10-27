@@ -6,7 +6,7 @@
 + 📊 Senior Business Analyst - Corporate Development 
 + 🎓 B. Sc graduate
 + 🔍 Passionate about exploring New Technologies
-+ 🌱 Currently learning Advanced Excel, Power BI, SQL, Tableau, Python
++ 🌱 Currently learning **Advanced Excel, Power BI, SQL, Tableau, Python**
 + 📚 Interested in doing Insights
 
 
